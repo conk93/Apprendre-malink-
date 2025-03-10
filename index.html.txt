@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apprendre le Malinké</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Apprendre le Malinké</h1>
+    <div class="container">
+        <div class="card">
+            <img src="images/objet1.jpg" alt="Objet 1">
+            <p>Objet 1 en Malinké</p>
+            <p>Objet 1 en Français</p>
+        </div>
+        <!-- Ajoute plus de cartes pour chaque objet -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
